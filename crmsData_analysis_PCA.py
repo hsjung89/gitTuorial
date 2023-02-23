@@ -1,3 +1,6 @@
+# This scrip conducts the pricicpal component analysis 
+# 
+ 
 import math
 import statistics
 import scipy.stats
