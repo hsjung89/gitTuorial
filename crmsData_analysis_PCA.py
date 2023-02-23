@@ -1,5 +1,5 @@
 # This scrip conducts the pricicpal component analysis 
-# 
+# by Hoon 
  
 import math
 import statistics
